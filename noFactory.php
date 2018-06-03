@@ -1,5 +1,5 @@
 <?php
-/*
+/* 
 *description 没有使用工厂模式的情况下
 *author zhuxinlei
 *date 20180602
