@@ -24,7 +24,7 @@ class SingleTon{
 }
 
 $singleTon = SingleTon::getInstance();
-//$singleTon = new SingleTon(); 禁止实例化
+//$singleTon = new SingleTon(); 禁止实例化 
 $singleTon->test();
 
 ?>
