@@ -35,6 +35,6 @@ class SimpleFactory{
 		}
 	}
 }
-$car = SimpleFactory::getInstance('Bmw');
+$car = SimpleFactory::getInstance('Bmw'); 
 $car->run();
 ?>
