@@ -15,7 +15,7 @@ interface Observable{
 class order implements Observable{
     private $instance=array();
     function add(observe $observe)
-    {
+    { 
         $key = array_search($observe,$this->instance);
         if($key === false){
             $this->instance[] = $observe;
