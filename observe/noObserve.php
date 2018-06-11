@@ -14,7 +14,7 @@ class order{
         //记日志
         Log::update();
     }
-}
+} 
 $order = new order();
 $order->addOrder();
 ?>
