@@ -1,0 +1,12 @@
+{
+    "name": "zhuxinlei/design-pattern",
+    "description": "learn composer",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "zhuxinlei",
+            "email": "zxlcjzxl@163.com"
+        }
+    ],
+    "require": {}
+}
